@@ -133,327 +133,327 @@
     {
       "target": "I4",
       "source": "Y4",
-      "value": 4.0
+      "value": 30.0
     },
     {
       "target": "Z4",
       "source": "A1",
-      "value": 2.0790513833992095
+      "value": 10.790513833992096
     },
     {
       "target": "H4",
       "source": "Y4",
-      "value": 1.4321475625823452
+      "value": 4.321475625823452
     },
     {
       "target": "Y4",
       "source": "Z4",
-      "value": 1.1054018445322793
+      "value": 1.0540184453227932
     },
     {
       "target": "Z4",
       "source": "T2",
-      "value": 1.0922266139657444
+      "value": 0.922266139657444
     },
     {
       "target": "G1",
       "source": "Z1",
-      "value": 1.0790513833992095
+      "value": 0.7905138339920948
     },
     {
       "target": "I1",
       "source": "G1",
-      "value": 1.0566534914361
+      "value": 0.5665349143610013
     },
     {
       "target": "I7",
       "source": "Y7",
-      "value": 1.0474308300395256
+      "value": 0.4743083003952569
     },
     {
       "target": "Z2",
       "source": "H4",
-      "value": 1.0421607378129116
+      "value": 0.42160737812911725
     },
     {
       "target": "G2",
       "source": "Z2",
-      "value": 1.0408432147562583
+      "value": 0.40843214756258234
     },
     {
       "target": "H4",
       "source": "X2",
-      "value": 1.0276679841897234
+      "value": 0.2766798418972332
     },
     {
       "target": "I2",
       "source": "G2",
-      "value": 1.0263504611330698
+      "value": 0.2635046113306983
     },
     {
       "target": "Y4",
       "source": "P4",
-      "value": 1.0263504611330698
+      "value": 0.2635046113306983
     },
     {
       "target": "W2",
       "source": "H4",
-      "value": 1.0250329380764163
+      "value": 0.2503293807641634
     },
     {
       "target": "Z4",
       "source": "H4",
-      "value": 1.0250329380764163
+      "value": 0.2503293807641634
     },
     {
       "target": "Z4",
       "source": "Z4",
-      "value": 1.023715415019763
+      "value": 0.23715415019762845
     },
     {
       "target": "I4",
       "source": "W2",
-      "value": 1.0223978919631094
+      "value": 0.22397891963109354
     },
     {
       "target": "I4",
       "source": "I4",
-      "value": 1.010540184453228
+      "value": 0.10540184453227931
     },
     {
       "target": "Y4",
       "source": "Y4",
-      "value": 1.007905138339921
+      "value": 0.07905138339920949
     },
     {
       "target": "Z4",
       "source": "A3",
-      "value": 1.002635046113307
+      "value": 0.026350461133069828
     },
     {
       "target": "A1",
       "source": "V3",
-      "value": 1.002635046113307
+      "value": 0.026350461133069828
     },
     {
       "target": "G2",
       "source": "Z1",
-      "value": 1.002635046113307
+      "value": 0.026350461133069828
     },
     {
       "target": "V2",
       "source": "I4",
-      "value": 1.002635046113307
+      "value": 0.026350461133069828
     },
     {
       "target": "H4",
       "source": "V2",
-      "value": 1.002635046113307
+      "value": 0.026350461133069828
     },
     {
       "target": "Y4",
       "source": "I4",
-      "value": 1.002635046113307
+      "value": 0.026350461133069828
     },
     {
       "target": "V3",
       "source": "A1",
-      "value": 1.002635046113307
+      "value": 0.026350461133069828
     },
     {
       "target": "P4",
       "source": "Z2",
-      "value": 1.002635046113307
+      "value": 0.026350461133069828
     },
     {
       "target": "H4",
       "source": "H4",
-      "value": 1.002635046113307
+      "value": 0.026350461133069828
     },
     {
       "target": "P4",
       "source": "A1",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "P4",
       "source": "Z4",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "G2",
       "source": "Y4",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "Z4",
       "source": "I4",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "G2",
       "source": "Z4",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "I4",
       "source": "X2",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "I4",
       "source": "V2",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "P5",
       "source": "P5",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "V2",
       "source": "Y4",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "X2",
       "source": "P4",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "Z4",
       "source": "S2",
-      "value": 1.0013175230566536
+      "value": 0.013175230566534914
     },
     {
       "target": "T4",
       "source": "H4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "H7",
       "source": "X2",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "G3",
       "source": "Y4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "I4",
       "source": "G3",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "I4",
       "source": "P4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "Z2",
       "source": "Z4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "P5",
       "source": "I4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "H7",
       "source": "Y7",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "P4",
       "source": "Y4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "G1",
       "source": "Y4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "Y4",
       "source": "H4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "I4",
       "source": "H4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "I7",
       "source": "W2",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "X2",
       "source": "I4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "Z4",
       "source": "P4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "G1",
       "source": "Z4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "W2",
       "source": "I4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "Z4",
       "source": "V2",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "Z4",
       "source": "H7",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "P4",
       "source": "V2",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "Z4",
       "source": "T1",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "I4",
       "source": "G2",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "I4",
       "source": "I2",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "P4",
       "source": "H4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "Z1",
       "source": "P4",
-      "value": 1.0
+      "value": 0.0
     },
     {
       "target": "I4",
       "source": "I1",
-      "value": 1.0
+      "value": 0.0
     }
   ]
 }
