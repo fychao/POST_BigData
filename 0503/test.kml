@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="361">
+        <Placemark id="363">
+            <name>704020 to 704027</name>
+            <description>臺南大同路郵局 to 仁德郵局</description>
+            <LineString id="362">
+                <coordinates>120.21418100000001,22.974457,0.0 120.25218600000001,22.969735,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="365">
+            <name>730046 to 730039</name>
+            <description>新市郵局 to 善化郵局</description>
+            <LineString id="364">
+                <coordinates>120.29338999999999,23.07584,0.0 120.294195,23.127206,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="367">
+            <name>400008 to 400006</name>
+            <description>霧峰郵局 to 霧峰民生路郵局</description>
+            <LineString id="366">
+                <coordinates>120.698481,24.061761999999998,0.0 120.70024199999999,24.065795,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="369">
+            <name>100250 to 100184</name>
+            <description>金門山外郵局 to 金門郵局</description>
+            <LineString id="368">
+                <coordinates>118.41548799999998,24.442197,0.0 118.32054,24.432988,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="371">
+            <name>320040 to 320044</name>
+            <description>楊梅郵局 to 楊梅幼工郵局</description>
+            <LineString id="370">
+                <coordinates>121.147608,24.910675,0.0 121.17451200000001,24.926288,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="373">
+            <name>420026 to 420027</name>
+            <description>潭子郵局 to 潭子加工區郵局</description>
+            <LineString id="372">
+                <coordinates>120.703732,24.211706,0.0 120.705258,24.216745,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="375">
+            <name>950008 to 950010</name>
+            <description>延平郵局 to 鹿野郵局</description>
+            <LineString id="374">
+                <coordinates>121.08506799999999,22.902678,0.0 121.136054,22.910759,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="377">
+            <name>241033 to 241034</name>
+            <description>三芝郵局 to 石門郵局</description>
+            <LineString id="376">
+                <coordinates>121.502725,25.259363,0.0 121.567351,25.291586,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="379">
+            <name>330031 to 900030</name>
+            <description>大園郵局 to 萬丹郵局</description>
+            <LineString id="378">
+                <coordinates>121.196903,25.066126999999998,0.0 120.48914099999999,22.591134,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="381">
+            <name>900030 to 500055</name>
+            <description>萬丹郵局 to 社頭郵局</description>
+            <LineString id="380">
+                <coordinates>120.48914099999999,22.591134,0.0 120.58773799999999,23.898206,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="383">
+            <name>500055 to 100029</name>
+            <description>社頭郵局 to 文山景美郵局</description>
+            <LineString id="382">
+                <coordinates>120.58773799999999,23.898206,0.0 121.540901,24.992445999999997,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="385">
+            <name>100029 to 900030</name>
+            <description>文山景美郵局 to 萬丹郵局</description>
+            <LineString id="384">
+                <coordinates>121.540901,24.992445999999997,0.0 120.48914099999999,22.591134,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="387">
+            <name>900030 to 500055</name>
+            <description>萬丹郵局 to 社頭郵局</description>
+            <LineString id="386">
+                <coordinates>120.48914099999999,22.591134,0.0 120.58773799999999,23.898206,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="389">
+            <name>500055 to 330031</name>
+            <description>社頭郵局 to 大園郵局</description>
+            <LineString id="388">
+                <coordinates>120.58773799999999,23.898206,0.0 121.196903,25.066126999999998,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="391">
+            <name>950008 to 950010</name>
+            <description>延平郵局 to 鹿野郵局</description>
+            <LineString id="390">
+                <coordinates>121.08506799999999,22.902678,0.0 121.136054,22.910759,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="393">
+            <name>704020 to 704045</name>
+            <description>臺南大同路郵局 to 仁德後壁厝郵局</description>
+            <LineString id="392">
+                <coordinates>120.21418100000001,22.974457,0.0 120.252016,22.954028,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="395">
+            <name>704020 to 704027</name>
+            <description>臺南大同路郵局 to 仁德郵局</description>
+            <LineString id="394">
+                <coordinates>120.21418100000001,22.974457,0.0 120.25218600000001,22.969735,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="397">
+            <name>420032 to 420037</name>
+            <description>大甲郵局 to 大甲幼獅郵局</description>
+            <LineString id="396">
+                <coordinates>120.62748,24.347417999999998,0.0 120.65203600000001,24.405303,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="399">
+            <name>730028 to 730031</name>
+            <description>佳里郵局 to 七股郵局</description>
+            <LineString id="398">
+                <coordinates>120.178129,23.163731,0.0 120.14240500000001,23.143195000000002,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="401">
+            <name>900064 to 900063</name>
+            <description>東港郵局 to 東港中正路郵局</description>
+            <LineString id="400">
+                <coordinates>120.460154,22.469764,0.0 120.450942,22.468981,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="403">
+            <name>420032 to 420037</name>
+            <description>大甲郵局 to 大甲幼獅郵局</description>
+            <LineString id="402">
+                <coordinates>120.62748,24.347417999999998,0.0 120.65203600000001,24.405303,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="405">
+            <name>100250 to 100184</name>
+            <description>金門山外郵局 to 金門郵局</description>
+            <LineString id="404">
+                <coordinates>118.41548799999998,24.442197,0.0 118.32054,24.432988,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="407">
+            <name>320008 to 320004</name>
+            <description>平鎮郵局 to 中壢龍岡郵局</description>
+            <LineString id="406">
+                <coordinates>121.209231,24.945645000000003,0.0 121.243602,24.925675,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
